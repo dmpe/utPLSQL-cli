@@ -40,3 +40,4 @@ script:
   - mvn package -DskipTests
   - mvn package verify jar:jar appassembler:assemble
 
+
